@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hwShareDataKotlin</string>
+    <string name="hintFirstActivity">Напиши что нибудь</string>
+    <string name="btnNextFirstActivity">Next</string>
+    <string name="hintSecondActivity">МЫ ПОЛУЧИЛИ ПУСТЫЕ ДАННЫЕ!</string>
+    <string name="backSecondAcvity">Back</string>
+</resources>
